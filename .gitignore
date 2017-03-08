@@ -1,0 +1,6 @@
+test/
+public/
+node_modules/
+database/
+.idea/
+start.bat
